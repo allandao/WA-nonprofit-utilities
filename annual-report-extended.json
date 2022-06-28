@@ -1,0 +1,116 @@
+{
+  "form" : "Annual Report",
+  "states": [{
+      "state": "Washington",
+      "dates": [{
+          "accounting_year_end": "01-31",
+          "renewal_deadline": "12-31"
+        },
+        {
+          "accounting_year_end": "02-28",
+          "renewal_deadline": "01-31"
+        },
+        {
+          "accounting_year_end": "02-29",
+          "renewal_deadline": "01-31"
+        },
+        {
+          "accounting_year_end": "03-31",
+          "renewal_deadline": "02-28"
+        },
+        {
+          "accounting_year_end": "04-30",
+          "renewal_deadline": "03-31"
+        },
+        {
+          "accounting_year_end": "05-31",
+          "renewal_deadline": "04-30"
+        },
+        {
+          "accounting_year_end": "06-30",
+          "renewal_deadline": "05-31"
+        },
+        {
+          "accounting_year_end": "07-31",
+          "renewal_deadline": "06-30"
+        },
+        {
+          "accounting_year_end": "08-31",
+          "renewal_deadline": "07-31"
+        },
+        {
+          "accounting_year_end": "09-30",
+          "renewal_deadline": "08-31"
+        },
+        {
+          "accounting_year_end": "10-31",
+          "renewal_deadline": "09-30"
+        },
+        {
+          "accounting_year_end": "11-30",
+          "renewal_deadline": "10-31"
+        },
+        {
+          "accounting_year_end": "12-31",
+          "renewal_deadline": "11-30"
+        }
+      ]
+    },
+    {
+      "state": "Example",
+      "dates": [{
+          "accounting_year_end": "01-31",
+          "renewal_deadline": "12-31"
+        },
+        {
+          "accounting_year_end": "02-28",
+          "renewal_deadline": "01-31"
+        },
+        {
+          "accounting_year_end": "02-29",
+          "renewal_deadline": "01-31"
+        },
+        {
+          "accounting_year_end": "03-31",
+          "renewal_deadline": "02-28"
+        },
+        {
+          "accounting_year_end": "04-30",
+          "renewal_deadline": "03-31"
+        },
+        {
+          "accounting_year_end": "05-31",
+          "renewal_deadline": "04-30"
+        },
+        {
+          "accounting_year_end": "06-30",
+          "renewal_deadline": "05-31"
+        },
+        {
+          "accounting_year_end": "07-31",
+          "renewal_deadline": "06-30"
+        },
+        {
+          "accounting_year_end": "08-31",
+          "renewal_deadline": "07-31"
+        },
+        {
+          "accounting_year_end": "09-30",
+          "renewal_deadline": "08-31"
+        },
+        {
+          "accounting_year_end": "10-31",
+          "renewal_deadline": "09-30"
+        },
+        {
+          "accounting_year_end": "11-30",
+          "renewal_deadline": "10-31"
+        },
+        {
+          "accounting_year_end": "12-31",
+          "renewal_deadline": "11-30"
+        }
+      ]
+    }
+  ]
+}
